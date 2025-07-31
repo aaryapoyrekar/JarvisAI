@@ -23,7 +23,7 @@ Jarvis AI is a simple voice-controlled desktop assistant built using Python 🐍
 ## 📦 Installation
 
 
-- git clone https://github.com/your-username/JarvisAI.git
+- git clone https://github.com/aaryapoyrekar/JarvisAI.git
 - cd JarvisAI
 - pip install -r requirements.txt
 ✅ Required Python Packages
